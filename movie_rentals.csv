@@ -1,0 +1,10 @@
+
+RentalID,Date,Customer,Movie,DaysRented,PricePerDay
+1,2025-02-01,Agam,Inception,3,50
+2,2025-02-01,Pranav,Avatar,2,60
+3,2025-02-02,Arpit,Titanic,5,40
+4,2025-02-02,Agam,Avatar,1,60
+5,2025-02-03,Tushar,Inception,4,50
+6,2025-02-03,Vaidik,The Matrix,3,45
+7,2025-02-04,Pranav,Inception,2,50
+8,2025-02-04,Arpit,The Matrix,1,45
