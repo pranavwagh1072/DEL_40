@@ -1,0 +1,177 @@
+2025-09-21 19:28:46,059 - INFO - Starting ETL Pipeline...
+2025-09-21 19:28:46,066 - INFO - Starting Data Visualization...
+2025-09-21 19:28:48,505 - INFO - Creating visualizations for Patna
+2025-09-21 19:28:48,712 - INFO - Fetched 32 records for Patna
+2025-09-21 19:28:54,315 - INFO - Visualizations created successfully
+2025-09-21 19:28:54,317 - INFO - Starting ML Weather Forecasting...
+2025-09-21 19:28:54,760 - INFO - Starting weather forecasting for Patna
+2025-09-21 19:28:54,825 - INFO - Fetched 32 training records for Patna
+2025-09-21 19:28:54,903 - INFO - Prepared features: ['date_ordinal', 'humidity', 'day_of_year', 'month', 'temp_lag1', 'humidity_lag1', 'temp_ma3', 'temp_ma7']
+2025-09-21 19:28:54,904 - INFO - Training data shape: X(26, 8), y(26,)
+2025-09-21 19:28:54,914 - INFO - Linear Regression - MAE: 1.64, MSE: 4.16, R2: 0.619
+2025-09-21 19:28:54,990 - INFO - Random Forest - MAE: 1.01, MSE: 1.56, R2: 0.857
+2025-09-21 19:28:54,992 - INFO - Fetched 32 training records for Patna
+2025-09-21 19:28:54,996 - INFO - Prepared features: ['date_ordinal', 'humidity', 'day_of_year', 'month', 'temp_lag1', 'humidity_lag1', 'temp_ma3', 'temp_ma7']
+2025-09-21 19:28:54,996 - INFO - Training data shape: X(26, 8), y(26,)
+2025-09-21 19:28:57,722 - INFO - Project execution summary generated
+2025-09-21 19:28:57,722 - WARNING - Project completed with some issues
+2025-09-21 19:32:39,880 - INFO - Starting ETL Pipeline...
+2025-09-21 19:32:40,932 - INFO - Starting Weather ETL Process
+2025-09-21 19:32:40,998 - INFO - Weather table created/verified
+2025-09-21 19:32:40,999 - INFO - Generating 30 days of sample data for Patna
+2025-09-21 19:32:41,050 - INFO - Successfully fetched weather data for Patna
+2025-09-21 19:32:41,065 - INFO - Weather data stored successfully for Patna
+2025-09-21 19:32:41,068 - INFO - Weather data stored successfully for Patna
+2025-09-21 19:32:41,071 - INFO - Weather data stored successfully for Patna
+2025-09-21 19:32:41,074 - INFO - Weather data stored successfully for Patna
+2025-09-21 19:32:41,077 - INFO - Weather data stored successfully for Patna
+2025-09-21 19:32:41,080 - INFO - Weather data stored successfully for Patna
+2025-09-21 19:32:41,083 - INFO - Weather data stored successfully for Patna
+2025-09-21 19:32:41,086 - INFO - Weather data stored successfully for Patna
+2025-09-21 19:32:41,088 - INFO - Weather data stored successfully for Patna
+2025-09-21 19:32:41,092 - INFO - Weather data stored successfully for Patna
+2025-09-21 19:32:41,095 - INFO - Weather data stored successfully for Patna
+2025-09-21 19:32:41,098 - INFO - Weather data stored successfully for Patna
+2025-09-21 19:32:41,101 - INFO - Weather data stored successfully for Patna
+2025-09-21 19:32:41,103 - INFO - Weather data stored successfully for Patna
+2025-09-21 19:32:41,107 - INFO - Weather data stored successfully for Patna
+2025-09-21 19:32:41,111 - INFO - Weather data stored successfully for Patna
+2025-09-21 19:32:41,114 - INFO - Weather data stored successfully for Patna
+2025-09-21 19:32:41,117 - INFO - Weather data stored successfully for Patna
+2025-09-21 19:32:41,121 - INFO - Weather data stored successfully for Patna
+2025-09-21 19:32:41,124 - INFO - Weather data stored successfully for Patna
+2025-09-21 19:32:41,127 - INFO - Weather data stored successfully for Patna
+2025-09-21 19:32:41,129 - INFO - Weather data stored successfully for Patna
+2025-09-21 19:32:41,131 - INFO - Weather data stored successfully for Patna
+2025-09-21 19:32:41,135 - INFO - Weather data stored successfully for Patna
+2025-09-21 19:32:41,138 - INFO - Weather data stored successfully for Patna
+2025-09-21 19:32:41,141 - INFO - Weather data stored successfully for Patna
+2025-09-21 19:32:41,144 - INFO - Weather data stored successfully for Patna
+2025-09-21 19:32:41,147 - INFO - Weather data stored successfully for Patna
+2025-09-21 19:32:41,150 - INFO - Weather data stored successfully for Patna
+2025-09-21 19:32:41,153 - INFO - Weather data stored successfully for Patna
+2025-09-21 19:32:41,153 - INFO - Generated and stored 30/30 sample weather records
+2025-09-21 19:32:41,154 - INFO - Generating 30 days of sample data for Delhi
+2025-09-21 19:32:41,187 - INFO - Successfully fetched weather data for Delhi
+2025-09-21 19:32:41,191 - INFO - Weather data stored successfully for Delhi
+2025-09-21 19:32:41,193 - INFO - Weather data stored successfully for Delhi
+2025-09-21 19:32:41,197 - INFO - Weather data stored successfully for Delhi
+2025-09-21 19:32:41,199 - INFO - Weather data stored successfully for Delhi
+2025-09-21 19:32:41,202 - INFO - Weather data stored successfully for Delhi
+2025-09-21 19:32:41,205 - INFO - Weather data stored successfully for Delhi
+2025-09-21 19:32:41,207 - INFO - Weather data stored successfully for Delhi
+2025-09-21 19:32:41,211 - INFO - Weather data stored successfully for Delhi
+2025-09-21 19:32:41,214 - INFO - Weather data stored successfully for Delhi
+2025-09-21 19:32:41,217 - INFO - Weather data stored successfully for Delhi
+2025-09-21 19:32:41,220 - INFO - Weather data stored successfully for Delhi
+2025-09-21 19:32:41,222 - INFO - Weather data stored successfully for Delhi
+2025-09-21 19:32:41,225 - INFO - Weather data stored successfully for Delhi
+2025-09-21 19:32:41,228 - INFO - Weather data stored successfully for Delhi
+2025-09-21 19:32:41,232 - INFO - Weather data stored successfully for Delhi
+2025-09-21 19:32:41,234 - INFO - Weather data stored successfully for Delhi
+2025-09-21 19:32:41,237 - INFO - Weather data stored successfully for Delhi
+2025-09-21 19:32:41,241 - INFO - Weather data stored successfully for Delhi
+2025-09-21 19:32:41,246 - INFO - Weather data stored successfully for Delhi
+2025-09-21 19:32:41,248 - INFO - Weather data stored successfully for Delhi
+2025-09-21 19:32:41,252 - INFO - Weather data stored successfully for Delhi
+2025-09-21 19:32:41,254 - INFO - Weather data stored successfully for Delhi
+2025-09-21 19:32:41,258 - INFO - Weather data stored successfully for Delhi
+2025-09-21 19:32:41,261 - INFO - Weather data stored successfully for Delhi
+2025-09-21 19:32:41,264 - INFO - Weather data stored successfully for Delhi
+2025-09-21 19:32:41,267 - INFO - Weather data stored successfully for Delhi
+2025-09-21 19:32:41,270 - INFO - Weather data stored successfully for Delhi
+2025-09-21 19:32:41,273 - INFO - Weather data stored successfully for Delhi
+2025-09-21 19:32:41,276 - INFO - Weather data stored successfully for Delhi
+2025-09-21 19:32:41,279 - INFO - Weather data stored successfully for Delhi
+2025-09-21 19:32:41,279 - INFO - Generated and stored 30/30 sample weather records
+2025-09-21 19:32:41,280 - INFO - Generating 30 days of sample data for Mumbai
+2025-09-21 19:32:41,313 - INFO - Successfully fetched weather data for Mumbai
+2025-09-21 19:32:41,317 - INFO - Weather data stored successfully for Mumbai
+2025-09-21 19:32:41,321 - INFO - Weather data stored successfully for Mumbai
+2025-09-21 19:32:41,324 - INFO - Weather data stored successfully for Mumbai
+2025-09-21 19:32:41,327 - INFO - Weather data stored successfully for Mumbai
+2025-09-21 19:32:41,329 - INFO - Weather data stored successfully for Mumbai
+2025-09-21 19:32:41,332 - INFO - Weather data stored successfully for Mumbai
+2025-09-21 19:32:41,335 - INFO - Weather data stored successfully for Mumbai
+2025-09-21 19:32:41,337 - INFO - Weather data stored successfully for Mumbai
+2025-09-21 19:32:41,340 - INFO - Weather data stored successfully for Mumbai
+2025-09-21 19:32:41,343 - INFO - Weather data stored successfully for Mumbai
+2025-09-21 19:32:41,346 - INFO - Weather data stored successfully for Mumbai
+2025-09-21 19:32:41,349 - INFO - Weather data stored successfully for Mumbai
+2025-09-21 19:32:41,351 - INFO - Weather data stored successfully for Mumbai
+2025-09-21 19:32:41,354 - INFO - Weather data stored successfully for Mumbai
+2025-09-21 19:32:41,357 - INFO - Weather data stored successfully for Mumbai
+2025-09-21 19:32:41,359 - INFO - Weather data stored successfully for Mumbai
+2025-09-21 19:32:41,362 - INFO - Weather data stored successfully for Mumbai
+2025-09-21 19:32:41,366 - INFO - Weather data stored successfully for Mumbai
+2025-09-21 19:32:41,370 - INFO - Weather data stored successfully for Mumbai
+2025-09-21 19:32:41,373 - INFO - Weather data stored successfully for Mumbai
+2025-09-21 19:32:41,376 - INFO - Weather data stored successfully for Mumbai
+2025-09-21 19:32:41,379 - INFO - Weather data stored successfully for Mumbai
+2025-09-21 19:32:41,382 - INFO - Weather data stored successfully for Mumbai
+2025-09-21 19:32:41,385 - INFO - Weather data stored successfully for Mumbai
+2025-09-21 19:32:41,387 - INFO - Weather data stored successfully for Mumbai
+2025-09-21 19:32:41,390 - INFO - Weather data stored successfully for Mumbai
+2025-09-21 19:32:41,394 - INFO - Weather data stored successfully for Mumbai
+2025-09-21 19:32:41,396 - INFO - Weather data stored successfully for Mumbai
+2025-09-21 19:32:41,399 - INFO - Weather data stored successfully for Mumbai
+2025-09-21 19:32:41,401 - INFO - Weather data stored successfully for Mumbai
+2025-09-21 19:32:41,402 - INFO - Generated and stored 30/30 sample weather records
+2025-09-21 19:32:41,402 - INFO - Generating 30 days of sample data for Bangalore
+2025-09-21 19:32:41,434 - INFO - Successfully fetched weather data for Bangalore
+2025-09-21 19:32:41,438 - INFO - Weather data stored successfully for Bangalore
+2025-09-21 19:32:41,441 - INFO - Weather data stored successfully for Bangalore
+2025-09-21 19:32:41,443 - INFO - Weather data stored successfully for Bangalore
+2025-09-21 19:32:41,447 - INFO - Weather data stored successfully for Bangalore
+2025-09-21 19:32:41,450 - INFO - Weather data stored successfully for Bangalore
+2025-09-21 19:32:41,453 - INFO - Weather data stored successfully for Bangalore
+2025-09-21 19:32:41,455 - INFO - Weather data stored successfully for Bangalore
+2025-09-21 19:32:41,458 - INFO - Weather data stored successfully for Bangalore
+2025-09-21 19:32:41,461 - INFO - Weather data stored successfully for Bangalore
+2025-09-21 19:32:41,464 - INFO - Weather data stored successfully for Bangalore
+2025-09-21 19:32:41,468 - INFO - Weather data stored successfully for Bangalore
+2025-09-21 19:32:41,470 - INFO - Weather data stored successfully for Bangalore
+2025-09-21 19:32:41,473 - INFO - Weather data stored successfully for Bangalore
+2025-09-21 19:32:41,476 - INFO - Weather data stored successfully for Bangalore
+2025-09-21 19:32:41,479 - INFO - Weather data stored successfully for Bangalore
+2025-09-21 19:32:41,482 - INFO - Weather data stored successfully for Bangalore
+2025-09-21 19:32:41,485 - INFO - Weather data stored successfully for Bangalore
+2025-09-21 19:32:41,488 - INFO - Weather data stored successfully for Bangalore
+2025-09-21 19:32:41,491 - INFO - Weather data stored successfully for Bangalore
+2025-09-21 19:32:41,495 - INFO - Weather data stored successfully for Bangalore
+2025-09-21 19:32:41,498 - INFO - Weather data stored successfully for Bangalore
+2025-09-21 19:32:41,500 - INFO - Weather data stored successfully for Bangalore
+2025-09-21 19:32:41,503 - INFO - Weather data stored successfully for Bangalore
+2025-09-21 19:32:41,506 - INFO - Weather data stored successfully for Bangalore
+2025-09-21 19:32:41,510 - INFO - Weather data stored successfully for Bangalore
+2025-09-21 19:32:41,512 - INFO - Weather data stored successfully for Bangalore
+2025-09-21 19:32:41,515 - INFO - Weather data stored successfully for Bangalore
+2025-09-21 19:32:41,518 - INFO - Weather data stored successfully for Bangalore
+2025-09-21 19:32:41,548 - INFO - Weather data stored successfully for Bangalore
+2025-09-21 19:32:41,551 - INFO - Weather data stored successfully for Bangalore
+2025-09-21 19:32:41,551 - INFO - Generated and stored 30/30 sample weather records
+2025-09-21 19:32:41,586 - INFO - Successfully fetched weather data for Patna
+2025-09-21 19:32:41,589 - INFO - Weather data stored successfully for Patna
+2025-09-21 19:32:42,643 - INFO - Successfully fetched weather data for Delhi
+2025-09-21 19:32:42,648 - INFO - Weather data stored successfully for Delhi
+2025-09-21 19:32:43,681 - INFO - Successfully fetched weather data for Mumbai
+2025-09-21 19:32:43,685 - INFO - Weather data stored successfully for Mumbai
+2025-09-21 19:32:44,732 - INFO - Successfully fetched weather data for Bangalore
+2025-09-21 19:32:44,737 - INFO - Weather data stored successfully for Bangalore
+2025-09-21 19:32:45,737 - INFO - Weather ETL Process completed
+2025-09-21 19:32:45,739 - INFO - Starting Data Visualization...
+2025-09-21 19:32:46,509 - INFO - Creating visualizations for Patna
+2025-09-21 19:32:46,575 - INFO - Fetched 63 records for Patna
+2025-09-21 19:32:52,449 - INFO - Visualizations created successfully
+2025-09-21 19:32:52,451 - INFO - Starting ML Weather Forecasting...
+2025-09-21 19:32:52,741 - INFO - Starting weather forecasting for Patna
+2025-09-21 19:32:52,807 - INFO - Fetched 63 training records for Patna
+2025-09-21 19:32:52,814 - INFO - Prepared features: ['date_ordinal', 'humidity', 'day_of_year', 'month', 'temp_lag1', 'humidity_lag1', 'temp_ma3', 'temp_ma7']
+2025-09-21 19:32:52,814 - INFO - Training data shape: X(57, 8), y(57,)
+2025-09-21 19:32:52,816 - INFO - Linear Regression - MAE: 2.32, MSE: 7.85, R2: 0.359
+2025-09-21 19:32:52,887 - INFO - Random Forest - MAE: 0.98, MSE: 1.52, R2: 0.876
+2025-09-21 19:32:52,889 - INFO - Fetched 63 training records for Patna
+2025-09-21 19:32:52,893 - INFO - Prepared features: ['date_ordinal', 'humidity', 'day_of_year', 'month', 'temp_lag1', 'humidity_lag1', 'temp_ma3', 'temp_ma7']
+2025-09-21 19:32:52,893 - INFO - Training data shape: X(57, 8), y(57,)
+2025-09-21 19:32:54,946 - INFO - Project execution summary generated
+2025-09-21 19:32:54,947 - INFO - Project completed successfully
