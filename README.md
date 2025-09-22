@@ -32,7 +32,7 @@ Welcome to the DEL_40 Repository! This repository contains multiple assignments 
 
 ## Repository Link
 
-[h(https://github.com/pranavwagh1072/DEL_40.git)
+(https://github.com/pranavwagh1072/DEL_40.git)
 
 ---
 
