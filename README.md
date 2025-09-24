@@ -28,9 +28,8 @@ Welcome to the DEL_40 Repository! This repository contains multiple assignments 
 8. **Capstone Project 1 – Smart Retail Insights with Weather Integration**  
    Capstone project combining retail analytics with weather data integration for smart insights.
 
-9. **Participative Learning - Big Data Analytics of Ride-Hailing Services (Uber/Ola) Using PySpark**
-
-   Big data project analyzing Uber/Ola ride patterns using PySpark for business insights.
+9. **Participative Learning - Big Data Analytics of Ride-Hailing Services (Uber/Ola) Using PySpark**  
+Big data project analyzing Uber/Ola ride patterns using PySpark for business insights.
     
 
 ---
