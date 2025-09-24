@@ -50,4 +50,4 @@ This project is for educational purposes and academic use.
 
 ---
 
-For queries or suggestions, please contact [Your Name or Email].
+
